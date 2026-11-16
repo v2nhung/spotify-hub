@@ -1,3 +1,8 @@
+---
+name: spotify-migration-architect-fe
+description: Use when migrating legacy Spotify API to custom Spring Boot backend and structuring React/Redux components using Vertical Slicing.
+---
+
 # SKILL: Spring Boot & React Strangler Fig Migration
 
 ## Description
